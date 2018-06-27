@@ -414,7 +414,7 @@
 	  if (host === "localhost" || host === "127.0.0.1") {
 	    return "http://localhost:3000";
 	  } else {
-	    return "https://salty-reef-31480.herokuapp.com/";
+	    return "http://quantified-self-be-rails-dev2.us-west-2.elasticbeanstalk.com/";
 	  }
 	};
 
